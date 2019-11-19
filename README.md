@@ -1,0 +1,2 @@
+# ShakhnozaNubyToPython-Qiskit
+Lerning QPython
