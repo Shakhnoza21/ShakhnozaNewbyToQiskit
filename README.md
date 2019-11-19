@@ -1,2 +1,2 @@
 # ShakhnozaNubyToPython-Qiskit
-Lerning QPython
+Hello, i just startet lerning Quantum Computing, Python and Qiskit. 
